@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Uni 4\Examen Uni 4\bin\Debug\Examen Uni 4.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Uni 4\Examen Uni 4\obj\Debug\Examen Uni 4.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Uni 4\Examen Uni 4\bin\Debug\Examen Uni 4.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Uni 4\Examen Uni 4\bin\Debug\Examen Uni 4.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Uni 4\Examen Uni 4\obj\Debug\Examen Uni 4.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Examen Uni 4\Examen Uni 4\obj\Debug\Examen Uni 4.pdb

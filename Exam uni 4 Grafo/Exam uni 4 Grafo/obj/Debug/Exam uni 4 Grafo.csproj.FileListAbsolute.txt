@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Exam uni 4 Grafo\Exam uni 4 Grafo\bin\Debug\Exam uni 4 Grafo.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Exam uni 4 Grafo\Exam uni 4 Grafo\bin\Debug\Exam uni 4 Grafo.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Exam uni 4 Grafo\Exam uni 4 Grafo\bin\Debug\Exam uni 4 Grafo.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Exam uni 4 Grafo\Exam uni 4 Grafo\obj\Debug\Exam uni 4 Grafo.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Exam uni 4 Grafo\Exam uni 4 Grafo\obj\Debug\Exam uni 4 Grafo.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Exam uni 4 Grafo\Exam uni 4 Grafo\obj\Debug\Exam uni 4 Grafo.pdb
